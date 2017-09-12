@@ -129,8 +129,8 @@ hist(totalStepsPerDay2$tot, breaks = 10, xlab = "Total number of steps taken eac
 
 Again the mean and the median:
 ```{r}
-mean(totalStepsPerDay$tot)
-median(totalStepsPerDay$tot)
+mean(totalStepsPerDay2$tot)
+median(totalStepsPerDay2$tot)
 ```
 
 Comparing this histogram and the values of mean and median, with
